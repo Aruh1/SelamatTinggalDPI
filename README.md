@@ -1,1 +1,1 @@
-GoodbyeDPI — Deep Packet Inspection circumvention utility
+GoodbyeDPI — Deep Packet Inspection utilitas penghindaran (buat Windows)
