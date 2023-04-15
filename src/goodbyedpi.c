@@ -623,9 +623,9 @@ int main(int argc, char *argv[]) {
         filter_passive_string = strdup(FILTER_PASSIVE_STRING_TEMPLATE);
 
     printf(
-        "GoodbyeDPI " GOODBYEDPI_VERSION
-        ": Passive DPI blocker and Active DPI circumvention utility\n"
-        "https://github.com/ValdikSS/GoodbyeDPI\n\n"
+        "SelamatTinggalDPI " GOODBYEDPI_VERSION
+        ": Pemblokir DPI pasif dan utilitas pengelabuan DPI aktif\n"
+        "https://github.com/Aruh1/SelamatTinggalDPI\n\n"
     );
 
     if (argc == 1) {
